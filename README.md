@@ -9,7 +9,10 @@ It's Omer. working with technologies such as C#, .Net, .Net Core MVC, MSSql, Htm
 *   🌍  I'm based in Istanbul/Turkey
 *   ✉️  You can contact me at [omerfirmak99@gmail.com](mailto:omerfirmak99@gmail.com)
 *   🧠  I'm learning React/Vue
-*   🤝  I'm open to collaborating on Frontend Development jobs### Skills 
+*   🤝  I'm open to collaborating on Frontend Development jobs
+*   
+*   Skills 
+*   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -25,9 +28,8 @@ It's Omer. working with technologies such as C#, .Net, .Net Core MVC, MSSql, Htm
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
-                          
-                      <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-irmak-072b78171/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+p align="left">
+<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-irmak-072b78171/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
