@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-It's Omer. working with technologies such as C#, .Net, .Net Core MVC, MSSql, Html, Css, Sass, Less, Tailwind, Bootstrap, Javascript, React
+It's Omer. working with technologies such as C#, .Net, .Net Core MVC, MSSql, Html, Css, Sass, Less, Tailwind, Bootstrap, Javascript, React, Next.Js
 
 *   🌍  I'm based in Istanbul/Turkey
 *   ✉️  You can contact me at [omerfirmak99@gmail.com](mailto:omerfirmak99@gmail.com)
-*   🧠  I'm learning React/Vue
+*   🧠  I'm learning React/Next.Js
 *   🤝  I'm open to collaborating on Frontend Development jobs
  
 <p align="left">
